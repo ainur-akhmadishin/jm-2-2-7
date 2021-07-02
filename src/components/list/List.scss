@@ -1,0 +1,13 @@
+.list{
+	box-sizing: content-box;
+	padding: 35px;
+	margin: 0 auto;
+	width: 1010px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
